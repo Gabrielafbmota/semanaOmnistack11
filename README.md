@@ -1,1 +1,2 @@
-# semanaOmnistack11
+# Projeto Semana OmniStack 
+# Gabriela Mota
